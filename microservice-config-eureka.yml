@@ -38,4 +38,4 @@ eureka:
   server:
     enable-self-preservation: true # 开启自我保护机制*****************
    
-#保存时注意，选择 UTF-8 保存
+#保存时注意，选择 UTF-8保存
